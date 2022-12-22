@@ -18,8 +18,9 @@ I was asked for two deliverable: 1. Provide the summary statistics for the month
 <br> Decmber Temperature Stats
 
 
-![June Temperature Statistics](/JuneTemp%20Statistics.png)
+![June Temperature Statistics](/JuneTemps%20Statistics.png)
 <br> June Temperature Stats
 
+### Summary
 
-Based on the provded information, I think it would be safe to open the shop if all other business aspects have been verified.
+Based on the provded information, I feel it would be safe to open the shop if all other business aspects have been verified.  Weather seems to stay consistent year round in Oahu with the occasional freak outliers that weather is capable of providing.
