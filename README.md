@@ -14,6 +14,6 @@ I was asked for two deliverable: 1. Provide the summary statistics for the month
   
   - Of note.  There were almost 200 more data points available for weather in June compared to December.  This could be cause by a number of issues with the               instruments at these sites.  However, I do not believe that these issues impact the overall quality of the statistics because those 200 data points would have to       have some extreme outliers to alter what we already have found.
 
-![December Temperature Statistics](https://github.com/natehahn/surfs_up/DecTemp Statistics.png)
+![December Temperature Statistics](/DecTemp_Statistics.png)
 
 Based on the provded information, I think it would be safe to open the shop if all other business aspects have been verified.
